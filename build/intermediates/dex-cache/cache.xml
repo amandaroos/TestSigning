@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amanda\.android\build-cache\da228bb9e435142d4c04d0439d5d6fe17047826a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="683e0c40e56227acb71bcd29fee25fe417ae734e">
+        <dex dex="C:\Users\Amanda\AndroidStudioProjects\TestSigning\app\build\intermediates\pre-dexed\release\classes_394a97001be2d71cba26a15b7b0813e139a29993.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amanda\AndroidStudioProjects\TestSigning\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Amanda\AndroidStudioProjects\TestSigning\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8f6a8b863209d5386c2c80a7af5e2ced691c065e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amanda\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha6\constraint-layout-solver-1.0.0-alpha6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="539cfaee6c35087cdebad7e3a3bc0f52d1261d93">
+        <dex dex="C:\Users\Amanda\AndroidStudioProjects\TestSigning\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.0-alpha6_fc779659428a86d6fcfd35c42549b6780db460d4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amanda\AndroidStudioProjects\TestSigning\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae36e4936ae6efce95a31af7f755af9a6b895a72">
+        <dex dex="C:\Users\Amanda\AndroidStudioProjects\TestSigning\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ed5faf4a5e4393d2a84f64ef595313164fb40e0\classes.dex" />
+    </item>
+
+</items>
